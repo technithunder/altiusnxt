@@ -1,0 +1,16 @@
+:root,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.selected-cell{
+  background-color: #f0f0f0 !important; /* Light grey background */
+  border: 1px solid #000000 !important;
+}
+
+td.custom-cell {
+  color: #fff;
+  background-color: #37bc6c;
+}
